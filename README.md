@@ -1,10 +1,9 @@
 # GameProject
-Repositorio de um jogo para POO
+Game made for the OOP class.
 
-Baixar o .zip e extrair o projeto.
-Abrir o mesmo no Eclipse.
+Download and unzip de archive.
+Open de project in Eclipse EE.
 
-SE quiser abrir o .jar, é necessário ter a ultima versão do java instalado.
-Qualquer dúvida, mandar um email para muriloh65@gmail.com.
+To open the .jar instead, use the last version of JAVA.
 
-É nóis!
+Enjoy!
